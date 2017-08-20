@@ -18,5 +18,19 @@
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+
+# Add any directories, files, or patterns you don't want to be tracked by version control
+maven-wrapper.properties
+mvnw.cmd
+spring-mvc-form.iml
+maven-wrapper.jar
+mvnw
+compiler.xml
+encodings.xml
+misc.xml
+modules.xml
+/target/
+.classpath
+.project
+.settings/
+/.idea/
